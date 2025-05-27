@@ -1,0 +1,27 @@
+# Virtuelle Umgebung (Standardname .venv)
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Log- und temporäre Dateien
+*.log
+*.tmp
+*.swp
+
+# Mac-spezifische Dateien
+.DS_Store
+
+# Umgebungskonfigurationen
+.env
+.venv/
+env/
+venv/
+
+# Sonstige (falls du mal andere Envs erstellst)
+ENV/
